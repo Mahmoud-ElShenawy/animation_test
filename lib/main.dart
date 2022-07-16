@@ -9,7 +9,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-   MyApp({Key? key})
+   MyApp({Key? })
 
   @override
   Widget build(BuildContext context) {
